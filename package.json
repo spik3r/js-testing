@@ -1,0 +1,21 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Kai",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^23.6.0",
+    "jest-cli": "^23.6.0",
+    "prettier": "1.16.0"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "rewire": "^4.0.1"
+  }
+}
